@@ -1,0 +1,5 @@
+Alices_q = QuantumRegister(2, name='alice')
+Bobs_q = QuantumRegister(1, name='bob')
+Alices_c = ClassicalRegister(2, name='alice-c')
+Bobs_c = ClassicalRegister(1, name='bob-c')
+circuit = QuantumCircuit(Alices_q, Bobs_q, Alices_c, Bobs_c)
