@@ -7,24 +7,24 @@ Setup
  - Install [miniforge](https://github.com/conda-forge/miniforge) to set up an environment for the Python installation. Alternative: Anaconda or Miniconda.
  - Create new conda environment
     
-    conda create -n qc-programming-tutorial python=3.10  
+       conda create -n qc-programming-tutorial python=3.10  
 
  - Activate the new environment
 
-    conda activate qc-programming-tutorial
+       conda activate qc-programming-tutorial
 
  - Clone this repository and enter the directory
 
-    git clone https://github.com/FZJ-PGI-12/qc-programming-tutorial.git
-    cd qc-programming-tutorial
+       git clone https://github.com/FZJ-PGI-12/qc-programming-tutorial.git
+       cd qc-programming-tutorial
 
  - Install the dependencies
 
-    pip install -r requirements.txt
+       pip install -r requirements.txt
 
  - Start the notebook
 
-    jupyter notebook
+       jupyter notebook
 
 Display Presentation
 --------------------
