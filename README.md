@@ -25,6 +25,8 @@ Setup for Participants
  - Start the notebook
 
        jupyter notebook
+ 
+ - **Test your setup** by running all cells. There should be no errors 
 
 Display Presentation
 --------------------
