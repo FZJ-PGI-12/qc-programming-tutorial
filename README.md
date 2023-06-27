@@ -1,8 +1,8 @@
 Quantum Computing Programming Tutorial
 ======================================
 
-Setup
------
+Setup for Participants
+----------------------
 
  - Install [miniforge](https://github.com/conda-forge/miniforge) to set up an environment for the Python installation. Alternative: Anaconda or Miniconda.
  - Create new conda environment
