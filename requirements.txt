@@ -3,3 +3,5 @@ qiskit
 matplotlib
 pylatexenc
 seaborn
+pytest
+nbval

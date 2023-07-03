@@ -28,6 +28,15 @@ Setup for Participants
  
  - **Test your setup** by running all cells. There should be no errors 
 
+Tests
+-----
+
+Test your environment with
+
+    pytest --nbval-lax *.ipynb
+
+There should be no errors
+
 Display Presentation
 --------------------
 
