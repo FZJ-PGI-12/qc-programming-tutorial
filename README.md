@@ -1,6 +1,8 @@
 Quantum Computing Programming Tutorial
 ======================================
 
+[![Running Test in CI](https://github.com/FZJ-PGI-12/qc-programming-tutorial/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/FZJ-PGI-12/qc-programming-tutorial/actions/workflows/python-package-conda.yml)
+
 Setup for Participants
 ----------------------
 
