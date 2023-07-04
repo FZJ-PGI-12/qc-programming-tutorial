@@ -1,4 +1,4 @@
-thetas = ParameterVector('θ', num_qubits)
+thetas = ParameterVector('theta', num_qubits)
 for i in range(num_qubits):
     ansatz.h(i)
     ansatz.ry(thetas[i], i)
